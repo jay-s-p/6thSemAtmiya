@@ -1,0 +1,23 @@
+{
+    "search.exclude": {
+        "**/*.csproj": true,
+        "**/obj": true,
+    },
+    "files.exclude": {
+        "**/*.csproj": true,
+        "**/obj": true,
+        "**/.git": true,
+        // "**/*Program.cs": true,
+        "**/.vs":true,
+        "**/*bin":true,
+        "**/*obj":true,
+        "**/*.Designer.cs":true,
+        "**/*.resx":true,
+        "**/*.csproj.user":true,
+        "**/*.sln":true,
+        "**/Properties":true,
+        "**/App.config":true,
+        "**/Program.c":true,
+        "**/**.xs[cds]":true
+    }
+}
